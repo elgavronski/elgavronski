@@ -1,13 +1,9 @@
 ## Olá, Sou a Ellen Gavronski!
 
-- 📚 Estudando ADS na FMU, previsto para se formar em 2025.
-- 🖥️ Sou desenvolvedor Full Stack.
-- 🤵 Sou formado em Gastronomia, trabalhei 15 anos em restaurante oriental e estou migrando de área atualmente por causa do nascimento da minha filha. Quero passar mais tempo com a família.
-
-- 🎮 Hobbies: Pegar estrada de moto, pescar, aquarismo, jogar com os amigos.
-
+- 📚 Estudando para ser Dev Full Stack na One Bit Code.
+- 
 <div>
-<a href="https://github.com/yamadabruno">
+<a href="https://github.com/elgavronski">
 <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elgavronski&layout=compact&langs_count=7&theme=tokyonight"/>
 <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=elgavronski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
