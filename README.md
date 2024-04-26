@@ -1,6 +1,9 @@
 ## Olá, Sou a Ellen Gavronski!
 
-- 📚 Estudando para ser Dev Full Stack na One Bit Code.
+- 📚 Estudando para ser Dev Full Stack.
+- Cursando ADS
+- Java - Udemy Nélio Alves.
+- Front End e Back End - One Bit Code
 - 
 <div>
 <a href="https://github.com/elgavronski">
