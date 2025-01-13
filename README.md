@@ -2,9 +2,9 @@
 
  📚 
 - Cursando ADS
-- Java - Udemy Nélio Alves.
+- Java - Udemy - Nélio Alves.
 - Front End e Back End - One Bit Code
-- 
+- Angular - Udemy
 <div>
 <a href="https://github.com/elgavronski">
 <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elgavronski&layout=compact&langs_count=7&theme=tokyonight"/>
